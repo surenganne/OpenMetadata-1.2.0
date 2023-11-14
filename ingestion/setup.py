@@ -324,7 +324,7 @@ setup(
     dependency_links=[],
     project_urls={
         "Documentation": "https://docs.open-metadata.org/",
-        "Source": "https://github.com/open-metadata/OpenMetadata",
+        "Source": "https://github.com/surenganne/OpenMetadata",
     },
     packages=find_namespace_packages(where="./src", exclude=["tests*"]),
     namespace_package=["metadata"],
