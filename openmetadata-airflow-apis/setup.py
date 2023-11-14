@@ -86,7 +86,7 @@ setup(
     dependency_links=[],
     project_urls={
         "Documentation": "https://docs.open-metadata.org/",
-        "Source": "https://github.com/open-metadata/OpenMetadata",
+        "Source": "https://github.com/surenganne/OpenMetadata",
     },
     install_requires=list(base_requirements),
     extras_require={
