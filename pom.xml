@@ -27,7 +27,7 @@
     OpenMetadata enables end-to-end metadata management, giving you the freedom to unlock the value of your data assets.
   </description>
   <version>1.2.0</version>
-  <url>https://github.com/open-metadata/OpenMetadata</url>
+  <url>https://github.com/surenganne/OpenMetadata</url>
   <modules>
     <module>openmetadata-spec</module>
     <module>common</module>
@@ -47,9 +47,9 @@
   </licenses>
 
   <scm>
-    <connection>scm:git:git@github.com:Open-Metadata/OpenMetadata</connection>
-    <developerConnection>scm:git:git@github.com:Open-Metadata/OpenMetadata</developerConnection>
-    <url>scm:git:git@github.com:Open-Metadata/OpenMetadata</url>
+    <connection>scm:git:git@github.com:surenganne/OpenMetadata</connection>
+    <developerConnection>scm:git:git@github.com:surenganne/OpenMetadata</developerConnection>
+    <url>scm:git:git@github.com:surenganne/OpenMetadata</url>
   </scm>
 
   <developers>
